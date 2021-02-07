@@ -83,7 +83,6 @@ As a marketing agency, we want a codebase that follows accessibility standards, 
 * Opened README to understand the homework
   *https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-fsf-pt-01-2021-u-c/-/blob/master/01-HTML-Git-CSS/Homework/README.mdfile 
 
-
 * Opened index.html 
   * Used code provided and began refracting it
   * Made edits to make it more accessible, added semantic HTML, added alt tag descriptions, checked sequential order under headings, added id tags to fix broken links, added notes, added any necessary links, and generally follow requirements outlined in class Readme under Homework from week 1
@@ -94,6 +93,11 @@ As a marketing agency, we want a codebase that follows accessibility standards, 
   * Consolidated code where possible 
   * Added div when needed 
   * Added notes and generally follow requirements outlined in class Readme under Homework from week 1
+
+* Opened Assets folder 
+  * Duplicated jpg images 
+  * Reduced their size so as to optimize the images so the website can load faster 
+  * Replaced optimized jpg images in assets folder (deleting previous jpgs)
 
 ### Terminal 
 * Committed changes to github 
