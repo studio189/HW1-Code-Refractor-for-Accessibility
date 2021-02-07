@@ -42,10 +42,10 @@ As a marketing agency, we want a codebase that follows accessibility standards, 
 * Knowledge of accessibility criteria and HTML semantic elements required 
 
 ### Built With 
-•	VScode https://code.visualstudio.com/– Used to edit HTML and CSS code 
-•	Terminal – Used during cloning and to commit changes to repository 
-•	Github https://github.com/– Used to host repository during development and version control 
-•	Gitlab https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-fsf-pt-01-2021-u-c/-/tree/master– Used to clone the original assignment from  
+* VScode https://code.visualstudio.com/– Used to edit HTML and CSS code 
+* Terminal – Used during cloning and to commit changes to repository 
+* Github https://github.com/– Used to host repository during development and version control 
+* Gitlab https://columbia.bootcampcontent.com/columbia-bootcamp/cu-nyc-fsf-pt-01-2021-u-c/-/tree/master– Used to clone the original assignment from  
 
 ## Deployment
 
@@ -114,13 +114,13 @@ This project is licensed under Marketing Agency License – see the License.md f
 
 ## Acknowledgements 
 Thank you to:
-•	The original author of the code that we refracted 
-•	To our clients for hiring us to do this project job at our marketing agency 
-•	The class for their slack communication.
-•	Teachers and Tas
-•	Google for the research 
-•	Alfred / Kofi for your tech assistance 
-•	W3schools.com 
-•	Github readme examples 
+* The original author of the code that we refracted 
+* To our clients for hiring us to do this project job at our marketing agency 
+* The class for their slack communication.
+* Teachers and Teacher's Assistants
+* Google for the research 
+* Alfred / Kofi for your tech assistance 
+* W3schools.com 
+* Github readme examples 
 
  
