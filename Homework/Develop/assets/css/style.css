@@ -8,25 +8,26 @@ body {
     background-color: #d9dcd6;
 }
 
-/*header tag is an element hence no need for a selector*/
+/*Removed selector because header class was replaced with header tag in index.html file */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/*removed class tag replaced by element header tag*/
+
+/*Removed selector because header class was replaced with header tag in index.html file */
 header h1 {
     display: inline-block;
     font-size: 48px;
-    color: #ffffff;
 }
 
+/*Removed selector because header class was replaced with header tag in index.html file */
 header h1 .seo {
     color: #d9dcd6;
 }
 
-/*removed div tag replaced by nav tag*/
+/*Removed selector because div tag was replaced with nav tag in index.html file*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -35,12 +36,12 @@ header nav {
     font-size: 20px;
 }
 
-/*removed div tag replaced by nav tag*/
+/*Removed selector because div tag was replaced with nav tag in index.html file*/
 header nav {
     list-style-type: none;
 }
 
-/*removed div tag replaced by nav tag*/
+/*Removed selector because div tag was replaced with nav tag in index.html file*/
 header nav ul li {
     display: inline-block;
     margin-left: 25px;
@@ -90,26 +91,26 @@ main {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/*replaced children tags with div id for consolidation*/
+/*In HTML, replaced children tags under class benefits with div id. In CSS, added a div tag to consolidate the .benefit selectors to reduce repetition. */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-/*replaced children tags with div id for consolidation*/
+/*rIn HTML, replaced children tags under class benefits with div id. In CSS, added a div h3 tag to consolidate the .benefit selectors to reduce repetition.*/
 .benefits div h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/*replaced children tags with div id for consolidation*/
+/*In HTML, replaced children tags under class benefits with div id. In CSS, added a div img tag to consolidate the .benefit selectors to reduce repetition.*/
 .benefits div img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-/*replaced class id with semantic article tag*/
+/*Consolidated Search Engine Optimization, Online reputation management, Social media marketing, to reduce repitition as they all shared the same attributes. */
 article {
     margin-bottom: 20px;
     padding: 50px;
@@ -119,19 +120,19 @@ article {
     color: #ffffff;
 }
 
-/*removed duplicate class tag replaced by article img tag for the same attributes*/
+/*Consolidated Search Engine Optimization, Online reputation management, Social media marketing, to reduce repitition as they all shared the same attributes*/
 article img {
     max-height: 200px;
 }
 
-/*removed duplicate class tag replaced by article h2 tag for the same attributes*/
+/*Consolidated Search Engine Optimization, Online reputation management, Social media marketing, to reduce repitition as they all shared the same attributes*/
 article h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
 
-/*remove class tag replaced by element footer tag*/
+/*Removed selector because footer class was replaced with footer tag in index.html file*/
 footer {
     padding: 30px;
     clear: both;
@@ -139,7 +140,7 @@ footer {
     text-align: center;
 }
 
-/*remove class tag replaced by element footer tag*/
+/*Removed selector because footer class was replaced with footer tag in index.html file*/
 footer h2 {
     font-size: 20px;
 }
