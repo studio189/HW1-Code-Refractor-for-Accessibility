@@ -96,7 +96,7 @@ As a marketing agency, we want a codebase that follows accessibility standards, 
 
 * Opened Assets folder 
   * Duplicated jpg images 
-  * Reduced their size so as to optimize the images so the website can load faster 
+  * Reduced jpg image size so as to optimize the images so the website can load faster 
   * Replaced optimized jpg images in assets folder (deleting previous jpgs)
 
 ### Terminal 
